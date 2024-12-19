@@ -31,10 +31,10 @@ void shopping :: menu()
 	 
 	 cout<<"\t\t\t\t_________________________________________________\n";
 	 cout<<"\t\t\t\t                                                 \n";
-     cout<<"\t\t\t\t                                                 \n";
-     cout<<"\t\t\t\t         SUPER_MARKET_MAIN_MENU                  \n";
-     cout<<"\t\t\t\t                                                 \n";
-     cout<<"\t\t\t\t_________________________________________________\n";
+         cout<<"\t\t\t\t                                                 \n";
+         cout<<"\t\t\t\t         SUPER_MARKET_MAIN_MENU                  \n";
+         cout<<"\t\t\t\t                                                 \n";
+         cout<<"\t\t\t\t_________________________________________________\n";
 	 cout<<"\t\t\t\t                                                 \n";
 	 cout<<"\t\t\t\t|        1) Administrator                        |\n";
 	 cout<<"\t\t\t\t|        2) Buyer                                |\n";
